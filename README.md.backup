@@ -1,10 +1,10 @@
 # Stochastic particle unbinding modulates growth dynamics and size of transcription factor condensates in living cells
 ## G. Muñoz-Gil et at. PNAS XXX (2022)
 
-Paper DOI: 
+Paper DOI: \
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4775311.svg)](https://doi.org/10.5281/zenodo.4775311)
  
-Repository DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4775311.svg)](https://doi.org/10.5281/zenodo.4775311)
+Repository Doi: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4775311.svg)](https://doi.org/10.5281/zenodo.4775311)
  
 
 This repository contains the necessary tools to replicate most of the results from [our paper](). We offer three jupyter notebooks reviewing the main parts of the various numerical and machine learning tools used in the paper. Moreover, we freely distribute the experimental data used in the paper, namely, the trajectories of the Progesterone Receptor at various hormone concentrations. For details on this data, please check our paper and the associated supplementary material. We will be very happy to learn any new findings you may discover with this data!
