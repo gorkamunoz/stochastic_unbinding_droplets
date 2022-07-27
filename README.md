@@ -1,5 +1,5 @@
 # Stochastic particle unbinding modulates growth dynamics and size of transcription factor condensates in living cells
-## G. Muñoz-Gil et at., PNAS (reference soon) (2022)
+## G. Muñoz-Gil et at., PNAS 119(31) e2200667119 (2022)
 
 [![DOI](https://zenodo.org/badge/DOI/10.1073/pnas.2200667119.svg)](https://doi.org/10.1073/pnas.2200667119)
 
